@@ -1,0 +1,43 @@
+/*
+ *Name: [First Last]
+ *UnityID: [unityID]
+ *Date: [Date Completed]
+ *Assignment: [Assignment Name]
+ *Description: [Assignment Description]
+ */
+ 
+ body {
+ background-color: #E6E6FA;
+ 
+ }
+ 
+p {
+    color: #383838;
+    font-style: Arial; 
+    font-size: 20px; 
+    text-align: center;
+}
+
+
+h2 {
+ text-align: center;
+}
+
+table {
+border: 1px solid; 
+
+}
+
+hr {
+
+color: white;
+}
+
+img {
+border: 2px solid; 
+border-color: green;
+
+
+
+
+}
